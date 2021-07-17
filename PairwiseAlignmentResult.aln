@@ -1,0 +1,34 @@
+CLUSTAL W 2.0 multiple sequence alignment
+
+AAB97682.1_glucokinase_[Homo_sapiens]                                      --------------------------------------------------MPRPRSQLPQPNSQVEQILA 70
+CCD65339.1_Probable_ADP-dependent_glucokinase_[Caenorhabditis_elegans]     MFSETFVPSIFSYKHRLLHLSVLFFIVPYWYSYYNDQHRLSSYSVETAMFLSWERA-IVKPGAMFKKAVI 70
+                                                                                                                             :.  *: : :*.: .:: : 
+
+AAB97682.1_glucokinase_[Homo_sapiens]                                      EFQLQEEDL---KKVMRRMQKEMDRGLRLETHEEASVKMLPTYVRSTPEGSEVGDFLSLDLGGTNFRVML 140
+CCD65339.1_Probable_ADP-dependent_glucokinase_[Caenorhabditis_elegans]     GFNCNVDLIVSGVRVVDALNTTCSEGKDQETLETLA-DLHQTFAHFFQRGAAAERYMSSE---DQFNLLV 140
+                                                                            *: : : :    :*:  ::.  ..*   ** *  : .:  *:.:   .*: .  ::* :    :*.:::
+
+AAB97682.1_glucokinase_[Homo_sapiens]                                      VKVGEGEEGQWSVKTKHQMYSIPEDAMTGTAEMLFDYISECISDFLDKHQMKHKKL-PLGFTFSFPVRHE 210
+CCD65339.1_Probable_ADP-dependent_glucokinase_[Caenorhabditis_elegans]     A------ESEASTRSHHH--------IGGNAALMADRIA---ANFPSTEVYLVGPIGPRSQALLHPSVKR 210
+                                                                           .      *.: *.:::*:        : *.* :: * *:   ::* ...      : * . :: .*  :.
+
+AAB97682.1_glucokinase_[Homo_sapiens]                                      DIDKGIL---LNWTKGFKASGAEGNNVVGLLRDAIKRRGDFEMDVVAMVNDTVATMISCYYEDHQCEVGM 280
+CCD65339.1_Probable_ADP-dependent_glucokinase_[Caenorhabditis_elegans]     TNSTRILKDELHVILEYKQGEILGDWVAPSSSRFITSHDHFSGSMVVM--EMFFKAIAQFRPD----LVV 280
+                                                                             .. **   *:    :* .   *: *.      *. :..*. .:*.*  : . . *: :  *    : :
+
+AAB97682.1_glucokinase_[Homo_sapiens]                                      IVGTGCNACYMEEM--QNVELVEGD----EGRMCVNTEWGAFGD----SGELDEFLLEYDRL-------- 350
+CCD65339.1_Probable_ADP-dependent_glucokinase_[Caenorhabditis_elegans]     ITGVHLLEFQSKEMRQEKMRLIKRNLLQIPPKVPIHLELGSLADEIFSTDVINKILPYVDSLGINEQELT 350
+                                                                           *.*.       :**  :::.*:: :      :: :: * *::.*    :. ::::*   * *        
+
+AAB97682.1_glucokinase_[Homo_sapiens]                                      -VDESSANPGQQLYEKLIGGKYMGELVRLVLLRLVDENLLFHGEASEQLRTRGAFETRFVSQVESDTGDR 420
+CCD65339.1_Probable_ADP-dependent_glucokinase_[Caenorhabditis_elegans]     FLSHIANGPHMEEYPVQAGTVHVHKVVEMLHWLLKT----YGRDPTGQIASKTGYRL-----------SR 420
+                                                                            :.. : .*  : *    *  :: ::*.::   *      :  :.: *: :: .:.            .*
+
+AAB97682.1_glucokinase_[Homo_sapiens]                                      KQIYNILSTLGLRPSTTDCDIVRRACESVSTRAAHMCSAGLAGVINRMRESRSEDVMRITVGVDGSV-YK 490
+CCD65339.1_Probable_ADP-dependent_glucokinase_[Caenorhabditis_elegans]     IHFHCLTYHIMVSSGTDWSNLAAGLAAGARIAGRLSCNIGANTMDSELLEIRTPANFVLDKKIEKNYQFE 490
+                                                                            ::: :   : : ..*  .::.   . ..   .   *. *   : ..: * *:   : :   :: .  ::
+
+AAB97682.1_glucokinase_[Homo_sapiens]                                      LHPSFKERFHASVRRLTPSCEITFIESEEGSGRGAALVSAVACKKACMLGQ---- 545
+CCD65339.1_Probable_ADP-dependent_glucokinase_[Caenorhabditis_elegans]     AHNPIASWMREDVLFVFTPVLVCRLPSKTVGIDDAISATGLLYSQFYRLNRPTHW 545
+                                                                            * .: . :: .*  : ..  :  : *:  .  .*  .:.:  .:   *.:    
+

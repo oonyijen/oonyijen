@@ -1,0 +1,30 @@
+CLUSTAL W 2.0 multiple sequence alignment
+
+AAB97682.1_glucokinase_[Homo_sapiens]   MPRPRSQL-PQPNSQVEQILAEFQLQEEDLKKVMRRMQKEMDRGLRLETHEEASVKMLPTYVRSTPEGSE 70
+AAC42074.1_glucokinase_[Mus_musculus]   MAVDTTRRGAQSLTLVEQILAEFQLQEEDLKKVMSRMQKEMDRGLKLETHQEASVKMLPTYVRSTPEGSE 70
+                                        *.   ::  .*. : ******************* **********:****:*******************
+
+AAB97682.1_glucokinase_[Homo_sapiens]   VGDFLSLDLGGTNFRVMLVKVGEGEEGQWSVKTKHQMYSIPEDAMTGTAEMLFDYISECISDFLDKHQMK 140
+AAC42074.1_glucokinase_[Mus_musculus]   VGDFLSLDLGGTNFRVMLVKVGEGEAGQWSVKTKHQMYSIPEDAMTGTAEMLFDYISECISDFLDKHQMK 140
+                                        ************************* ********************************************
+
+AAB97682.1_glucokinase_[Homo_sapiens]   HKKLPLGFTFSFPVRHEDIDKGILLNWTKGFKASGAEGNNVVGLLRDAIKRRGDFEMDVVAMVNDTVATM 210
+AAC42074.1_glucokinase_[Mus_musculus]   HKKLPLGFTFSFPVRHEDIDKGILLNWTKGFKASGAEGNNIVGLLRDAIKRRGDFEMDVVAMVNDTVATM 210
+                                        ****************************************:*****************************
+
+AAB97682.1_glucokinase_[Homo_sapiens]   ISCYYEDHQCEVGMIVGTGCNACYMEEMQNVELVEGDEGRMCVNTEWGAFGDSGELDEFLLEYDRLVDES 280
+AAC42074.1_glucokinase_[Mus_musculus]   ISCYYEDRQCEVGMIVGTGCNACYMEEMQNVELVEGDEGRMCVNTEWGAFGNSGELDEFLLEYDRMVDES 280
+                                        *******:*******************************************:*************:****
+
+AAB97682.1_glucokinase_[Homo_sapiens]   SANPGQQLYEKLIGGKYMGELVRLVLLRLVDENLLFHGEASEQLRTRGAFETRFVSQVESDTGDRKQIYN 350
+AAC42074.1_glucokinase_[Mus_musculus]   SVNPGQQLYEKIIGGKYMGELVRLVLLKLVEENLLFHGEASEQLRTRGAFETRFVSQVESDSGDRRQILN 350
+                                        *.*********:***************:**:******************************:***:** *
+
+AAB97682.1_glucokinase_[Homo_sapiens]   ILSTLGLRPSTTDCDIVRRACESVSTRAAHMCSAGLAGVINRMRESRSEDVMRITVGVDGSVYKLHPSFK 420
+AAC42074.1_glucokinase_[Mus_musculus]   ILSTLGLRPSVADCDIVRRACESVSTRAAHMCSAGLAGVINRMRESRSEDVMRITVGVDGSVYKLHPSFK 420
+                                        **********.:**********************************************************
+
+AAB97682.1_glucokinase_[Homo_sapiens]   ERFHASVRRLTPSCEITFIESEEGSGRGAALVSAVACKKACMLGQ 465
+AAC42074.1_glucokinase_[Mus_musculus]   ERFHASVRRLTPNCEITFIESEEGSGRGAALVSAVACKKACMLGQ 465
+                                        ************.********************************
+

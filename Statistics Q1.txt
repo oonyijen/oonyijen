@@ -1,0 +1,10 @@
+R for Statistics 
+Question 1:
+
+Population: The voters in the state that are registered to the given party
+
+Sample: 500 registered voters
+
+Parameter: 2.	The percentage, among all registered voters of the given party, of those that prefer a male candidate. 
+
+Statistics: 3.	The number 42% that corresponds to the percentage of those that prefer a female candidate. 
